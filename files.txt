@@ -1,0 +1,8 @@
+index.html
+script.js
+style.css
+server.py
+mydb.conf
+git.conf
+server.py
+newfile2.py
